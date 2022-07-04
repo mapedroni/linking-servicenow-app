@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Company Event" max_length="40" name="x_845667_demo_even_company_event" type="collection"/>
+</database>
